@@ -1,0 +1,6 @@
+LIBRARY mydll
+EXPORTS 
+	DllCopy
+	DllMemory
+	DllSeries
+	DllWindows
